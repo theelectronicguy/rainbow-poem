@@ -4,3 +4,8 @@ Today on 13th december 2020, i am again learning to use git and github haha! The
 But see here i am today dedicately trying to finish stuff. 
 I want to learn a few skills before this year 2020 finishes up ,so that i am prepared for a better 2021.
 By the way this is a 21 day challenge going on and this is day3.
+******************************************************************
+I learned a new term called as merge in this lessson and it feels awesome , now this code i am writing is in a completly new branch called as 
+the new idea and hope it works well , i will make further changes in this branch before merging with the main one.
+and now it's the 2nd change to the branch the time currently is 23:08 and date is 13-12-2020
+** Never loose your passion for learning otherwise you will not be able to achieve an ideal life , remember when a student is ready a teacher emerges**
